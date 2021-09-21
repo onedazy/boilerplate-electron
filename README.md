@@ -4,15 +4,15 @@ This project was created by Koen van Ginkel.
 
 
 To setup the project on your computer firstly run :
-### `npm i`
+### `yarn install`
 
 
-When called `npm i` you should be able to run the application by calling:
-### `npm start`
+When called `yarn install` you should be able to run the application by calling:
+### `yarn start`
 
 
 To create a release you can call
-### `npm run release`
+### `yarn run release`
 
 This app uses @material-ui
 you can find the documentation [here](https://material-ui.com/components/box/)
